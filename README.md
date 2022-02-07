@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <div align="center">
   <a href="https://github.com/SantosMatheus8">
@@ -15,7 +15,10 @@
   
   ##
   
-  
+
+    ![Snake animation](https://github.com/SantosMatheus8/SantosMatheus8/blob/output/github-contribution-grid-snake.svg)
+
+
   
   
   
