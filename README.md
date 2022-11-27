@@ -1,5 +1,4 @@
 <h2>Matheus Pereira Santos</h2>
-<h4>✋ Estudante de Analise e Desenvolvimento de Sistemas, buscando sempre evoluir na programação. </h4>
 
 <br><br>
 <div align="center">
