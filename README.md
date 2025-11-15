@@ -11,6 +11,7 @@
 # 🧠 Conhecimentos
 ---
 - **.NET**
+- **C#**
 - **Node.js**
 - **NestJS**
 - **React**
